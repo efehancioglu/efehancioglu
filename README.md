@@ -33,7 +33,7 @@
 **Database**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="48" />
-<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="MS SQL Server" />
 
 **Araçlar**
 
