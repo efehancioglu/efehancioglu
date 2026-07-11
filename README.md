@@ -32,8 +32,7 @@
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="MS SQL Server" />
+<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mongodb" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="MS SQL Server" /></p>
 
 **Araçlar**
 
@@ -47,7 +46,7 @@ Bu projede **backend development** tarafında yer alıyorum.
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efehancioglu&hide_border=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efehancioglu&hide_border=true&theme=dark&background=0D1117" />
 </p>
 
 ---
