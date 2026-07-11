@@ -20,16 +20,11 @@
 - 🤖 **Yapay zeka** ve **derin öğrenme** konularına ilgi duyuyor, bu alanlarda da öğrenmeye devam ediyorum.
 - 📫 Bana ulaşmak isterseniz: **efehancioglu0@gmail.com**
 
-### 🚧 Şu An Üzerinde Çalıştığım Proje
-
-**YETE — Servis ve Filo Yönetim Sistemi** *(private repository)*
-Bu projede **backend development** tarafında yer alıyorum.
-
 ### 🧰 Teknolojiler
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=dotnet,fastapi,csharp,python,postman,docker" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,fastapi,python,postman,docker" />
 
 **Frontend**
 
@@ -37,18 +32,19 @@ Bu projede **backend development** tarafında yer alıyorum.
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="48" />
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />
 
 **Araçlar**
 
 <img src="https://skillicons.dev/icons?i=git,github" />
 
-### 📊 GitHub İstatistikleri
+### 🚧 Şu An Üzerinde Çalıştığım Proje
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=efehancioglu&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efehancioglu&layout=compact&hide_border=true&theme=default" />
-</p>
+**YETE — Servis ve Filo Yönetim Sistemi** *(private repository)*
+Bu projede **backend development** tarafında yer alıyorum.
+
+### 📊 GitHub İstatistikleri
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=efehancioglu&hide_border=true&theme=default" />
