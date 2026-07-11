@@ -2,10 +2,10 @@
 <h3 align="center">Full Stack Developer | AI Enthusiast | Computer Engineering Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/efehancioglu/">
+  <a href="https://www.linkedin.com/in/efehancioglu/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:efehancioglu0@gmail.com">
+  <a href="mailto:efehancioglu0@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
