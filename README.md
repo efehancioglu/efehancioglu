@@ -17,7 +17,7 @@
 | --- | --- |
 | **Backend** | .NET Core, C#, FastAPI, Python, Postman, Docker |
 | **Frontend** | React, HTML, CSS, JavaScript, Flutter |
-| **Database** | MySQL, PostgreSQL, MongoDB, MS SQL Server |
+| **Database** | MS SQL Server, PostgreSQL, MongoDB |
 | **AI & Data Science** | Python, Pandas, NumPy, PyTorch, scikit-learn |
 | **Tools** | Git, GitHub |
 
