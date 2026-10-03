@@ -8,7 +8,7 @@
 
 - 🎓 Computer Engineering student.
 - 🛠️ Mainly focused on **backend development**, **AI** and **deep learning**.
-- ⚙️ Currently building up my skills in **DevOps** and **system architecture**.
+- ⚙️ Currently building up my skills in **Data Analysis** and **Digital Image Processing**.
 - 📫 Reach me at **efehancioglu0@gmail.com**
 
 ### 🧰 Tech Stack
