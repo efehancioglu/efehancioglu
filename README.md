@@ -21,10 +21,6 @@
 | **AI & Data Science** | Python, Pandas, NumPy, PyTorch, scikit-learn |
 | **Tools** | Git, GitHub |
 
-### 🚧 Currently Working On
-
-**YETE — Service and Fleet Management System** *(private repository)* — working on the **backend development** side.
-
 ---
 
 <p align="center"><i>Thanks for stopping by — feel free to reach out via LinkedIn or email.</i></p>
